@@ -3,12 +3,5 @@
     "subTitle": "“虎”口夺“字”，在这里畅谈技术创新、代码艺术和数据背后的故事。",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67221083?v=4",
     "GMEEK_VERSION": "last",
-    "scripts": [
-        "<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
-        "<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
-    ],
-    "allHead": [
-        "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-        "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>"
-    ]
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
